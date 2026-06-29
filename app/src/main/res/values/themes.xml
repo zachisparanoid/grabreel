@@ -1,0 +1,9 @@
+<resources>
+    <!-- DarkActionBar gives us an overflow menu for the server-settings action. -->
+    <style name="Theme.GrabReel" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/grabreel_primary</item>
+        <item name="colorPrimaryVariant">@color/grabreel_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/grabreel_primary</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GrabReel</string>
+
+    <string name="paste_hint">Paste a video link…</string>
+    <string name="action_download">Download</string>
+    <string name="action_remove">Remove</string>
+    <string name="empty_hint">Share a video to GrabReel, or paste a link above.</string>
+    <string name="no_player">No app can open this file.</string>
+
+    <string name="share_queued">Added to GrabReel</string>
+    <string name="share_no_link">No video link found.</string>
+
+    <string name="menu_update">Update extractor</string>
+    <string name="menu_clear_finished">Clear finished</string>
+    <string name="updating_extractor">Updating extractor…</string>
+    <string name="update_done">yt-dlp is up to date.</string>
+    <string name="update_failed">Update failed: %1$s</string>
+
+    <string name="ig_login_required">Instagram needs you to sign in. Open ⋮ → Accounts → Instagram, then retry.</string>
+
+    <string name="login_title">Sign in</string>
+
+    <string name="menu_accounts">Accounts</string>
+    <string name="accounts_title">Accounts</string>
+    <string name="ig_signed_in">Instagram — signed in</string>
+    <string name="ig_signed_out">Instagram — not signed in</string>
+    <string name="action_login">Log in</string>
+    <string name="action_logout">Log out</string>
+</resources>
